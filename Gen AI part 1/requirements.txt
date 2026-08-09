@@ -1,0 +1,37 @@
+# Core LangChain
+
+langchain
+langchain-core
+langchain-community
+
+# Groq
+
+langchain-groq
+groq
+
+# Mistral
+
+langchain-mistralai
+mistralai
+
+# Embeddings / Vector DB
+
+faiss-cpu
+sentence-transformers
+
+# Document handling
+
+pypdf
+tiktoken
+
+# UI (optional)
+
+streamlit
+
+# Env handling
+
+python-dotenv
+
+# Utils
+
+
