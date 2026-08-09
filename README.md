@@ -95,11 +95,6 @@ A simple and clean chat interface where users can:
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
