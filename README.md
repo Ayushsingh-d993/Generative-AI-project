@@ -93,8 +93,6 @@ A simple and clean chat interface where users can:
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
----
 ---
 
 ## 👨‍💻 Author
